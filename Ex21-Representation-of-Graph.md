@@ -1,5 +1,5 @@
 # Ex21 Representation of Graph
-## DATE:25/4/25
+## DATE:21/4/25
 ## AIM:
 To write a C program to display the adjacency matrix of the given graph by supplying the edges and the number of vertices.
 
